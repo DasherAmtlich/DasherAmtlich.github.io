@@ -1,0 +1,12 @@
+baseURL = "https://DasherAmtlich.github.io/"
+title = "Your Blog Title"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+
+  author = "Dasher Amtlich"

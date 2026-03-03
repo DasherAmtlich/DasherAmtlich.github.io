@@ -1,6 +1,7 @@
 baseURL = "https://DasherAmtlich.github.io/"
-title = "Your Blog Title"
+title = "Dasher"
 theme = "PaperMod"
+author = "Dasher Amtlich"
 
 enableRobotsTXT = true
 
@@ -9,4 +10,7 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowShareButtons = true
 
-  author = "Dasher Amtlich"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  

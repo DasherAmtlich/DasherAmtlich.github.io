@@ -6,5 +6,5 @@ categories = ['R Projects']
 tags = ['Decay Regimes', 'Marketing']
 +++
 
-How can we really know about attention?
+How can we really know about attention? Hello, can we get something else going on here? 
 

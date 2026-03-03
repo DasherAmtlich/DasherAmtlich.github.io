@@ -10,3 +10,7 @@ enableRobotsTXT = true
   ShowShareButtons = true
 
   author = "Dasher Amtlich"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

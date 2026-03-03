@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Decay Regimes on Your Blog Title</title>
+    <link>http://localhost:1313/tags/decay-regimes/</link>
+    <description>Recent content in Decay Regimes on Your Blog Title</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/decay-regimes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On The Dyanmics of Attention</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;central-question&#34;&gt;Central Question&lt;/h2&gt;
+&lt;p&gt;In the age of short-form media proliferation, how long do cultural events stay in our collective memory? Do these events follow specific mathematical decay regimes?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

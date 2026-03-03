@@ -1,7 +1,7 @@
 +++
-date = '2026-03-03T12:23:58-08:00'
+date = '2026-03-03'
 draft = false
-title = 'First Post'
+title = 'On the Dynamics of Attention'
 +++
 
 

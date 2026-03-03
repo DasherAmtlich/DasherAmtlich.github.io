@@ -1,7 +1,6 @@
 baseURL = "https://DasherAmtlich.github.io/"
 title = "Dasher"
 theme = "PaperMod"
-author = "Dasher Amtlich"
 
 enableRobotsTXT = true
 
@@ -9,6 +8,8 @@ enableRobotsTXT = true
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
+
+  author = "Dasher Amtlich"
 
 [taxonomies]
   category = "categories"

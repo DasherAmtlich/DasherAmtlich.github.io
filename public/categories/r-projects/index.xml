@@ -18,5 +18,21 @@
 &lt;h3 id=&#34;short-answer&#34;&gt;Short Answer&lt;/h3&gt;
 &lt;p&gt;The rememberance of a cultural event depends entirely on the event (although we could group it into certain sorts of events). While most events follow a decay law, the exact nature remains highly variable and dependent on both inherent and exogenous variables.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Predicting Maximum Earthquake Magnitudes</title>
+      <link>http://localhost:1313/posts/mag-pred/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mag-pred/</guid>
+      <description>&lt;h2 id=&#34;central-question&#34;&gt;Central Question&lt;/h2&gt;
+&lt;p&gt;Could you possibly build a compuationally light earthquake predicting algorithm?&lt;/p&gt;
+&lt;h3 id=&#34;short-answer&#34;&gt;Short answer&lt;/h3&gt;
+&lt;p&gt;No. Earthquake prediction, especially time predictions is pretty much impossible. However, using aftershock mechanics and regional seismic activity, one could build an algorithm that predicts the maximum magnitude an earthquake could have.&lt;/p&gt;
+&lt;p&gt;Find out more in my paper below:
+Find out more in my paper&lt;/p&gt;
+&lt;iframe src =&#34;https://drive.google.com/file/d/1lznUSwW9ELRF257SSRN-G-TOme-PuGqB/preview&#34; width = &#34;816px&#34;, height = &#34;1056px&#34;&gt;
+&lt;/iframe&gt;
+&lt;h3 id=&#34;further-workchallenges&#34;&gt;Further Work/Challenges&lt;/h3&gt;
+&lt;p&gt;Need more information how the magnitude of completeness ($M_c$) changes simulations, the effects using a Weibull distribution vs. a Poisson distribution, and how important are uncertainties in inferred variables.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

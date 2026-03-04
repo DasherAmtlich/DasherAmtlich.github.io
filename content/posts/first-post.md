@@ -14,6 +14,7 @@ The rememberance of a cultural event depends entirely on the event (although we 
 
 Find out more in my paper
 <iframe src ="https://drive.google.com/file/d/1hNRR4mV77pnVY5E6pZyt83-E4nx2o7H0/preview" width = "816px", height = "1056px">
+</iframe>
 
-
-
+## Further Work/Challenges
+Was the 2024 World Series an outlier in terms of the World Series? What does the decay regime for other former Presidents look like? How do subsequent installments in a franchise look? 

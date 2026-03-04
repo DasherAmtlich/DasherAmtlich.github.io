@@ -12,7 +12,7 @@ In the age of short-form media proliferation, how long do cultural events stay i
 ### Short Answer
 The rememberance of a cultural event depends entirely on the event (although we could group it into certain sorts of events). While most events follow a decay law, the exact nature remains highly variable and dependent on both inherent and exogenous variables.
 
-Find out more in my paper
+Find out more in my paper:
 <iframe src ="https://drive.google.com/file/d/1hNRR4mV77pnVY5E6pZyt83-E4nx2o7H0/preview" width = "816px", height = "1056px">
 </iframe>
 

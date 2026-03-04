@@ -8,6 +8,7 @@ enableRobotsTXT = true
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
+  fontFamily = "EB Garamond, serif"
 
   author = "Dasher Amtlich"
 

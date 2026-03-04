@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>February on Dasher</title>
+    <link>http://localhost:1313/tags/february/</link>
+    <description>Recent content in February on Dasher</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/february/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>February 2026 Reading</title>
+      <link>http://localhost:1313/posts/february2026/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/february2026/</guid>
+      <description>&lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;William Frederik Hermans, &lt;em&gt;An Untouched House&lt;/em&gt; (1950)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;non-fiction&#34;&gt;Non-Fiction&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Brian Christian &amp;amp; Tom Griffiths, &lt;em&gt;Algorithms To Live By&lt;/em&gt; (2016)&lt;/li&gt;
+&lt;li&gt;Julian Togelius, &lt;em&gt;Artificial General Intelligence&lt;/em&gt; (2024)&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
